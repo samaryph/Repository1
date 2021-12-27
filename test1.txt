@@ -1,8 +1,6 @@
 total 10112
 drwxr-xr-x 1 tonie 197121       0 Dec 27 11:13 ./
 drwxr-xr-x 1 tonie 197121       0 Dec 27 14:35 ../
-drwxr-xr-x 1 tonie 197121       0 Sep  2 14:58 .metadata/
-drwxr-xr-x 1 tonie 197121       0 Apr 25  2017 __MACOSX/
 drwxr-xr-x 1 tonie 197121       0 Dec 27 11:12 Files/
 drwxr-xr-x 1 tonie 197121       0 Nov 24 21:17 Hello World/
 drwxr-xr-x 1 tonie 197121       0 Nov 24 22:58 hellowordjspdemo/
