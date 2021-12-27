@@ -1,0 +1,27 @@
+total 10112
+drwxr-xr-x 1 tonie 197121       0 Dec 27 11:13 ./
+drwxr-xr-x 1 tonie 197121       0 Dec 27 14:35 ../
+drwxr-xr-x 1 tonie 197121       0 Sep  2 14:58 .metadata/
+drwxr-xr-x 1 tonie 197121       0 Apr 25  2017 __MACOSX/
+drwxr-xr-x 1 tonie 197121       0 Dec 27 11:12 Files/
+drwxr-xr-x 1 tonie 197121       0 Nov 24 21:17 Hello World/
+drwxr-xr-x 1 tonie 197121       0 Nov 24 22:58 hellowordjspdemo/
+-rw-r--r-- 1 tonie 197121  191982 Sep  2 13:35 How to master Java Roadmap.jpg
+drwxr-xr-x 1 tonie 197121       0 Dec 27 11:13 John Purcel Java/
+drwxr-xr-x 1 tonie 197121       0 Dec 18 00:29 jsp-servlet-jdbc-source-code-v3/
+drwxr-xr-x 1 tonie 197121       0 Sep  2 15:07 myjavademo/
+drwxr-xr-x 1 tonie 197121       0 Nov  2 19:36 RESTAssuredAutomation/
+-rw-r--r-- 1 tonie 197121   39878 Sep 15 00:15 Screenshot 2021-09-15 001547.jpg
+-rw-r--r-- 1 tonie 197121   16184 Sep 15 00:17 Screenshot 2021-09-15 001719.jpg
+drwxr-xr-x 1 tonie 197121       0 Dec 17 18:56 Servers/
+drwxr-xr-x 1 tonie 197121       0 Dec 17 19:00 servletdemo/
+drwxr-xr-x 1 tonie 197121       0 Oct 12 20:23 Simplilearn/
+drwxr-xr-x 1 tonie 197121       0 Dec 14 21:51 solution-code-jsp-jstl-core-tags/
+drwxr-xr-x 1 tonie 197121       0 Apr 25  2017 solution-code-jsp-state-management/
+drwxr-xr-x 1 tonie 197121       0 Apr 25  2017 solution-code-servlet-demo/
+drwxr-xr-x 1 tonie 197121       0 Dec 22 16:18 solution-code-student-tracker-list-students-basic/
+-rw-r--r-- 1 tonie 197121 2647785 Dec 22 14:32 solution-code-student-tracker-list-students-basic.zip
+drwxr-xr-x 1 tonie 197121       0 Nov 27 06:00 spring-and-hibernate-for-beginners-master/
+-rw-r--r-- 1 tonie 197121 7343024 Dec 27 11:09 spring-and-hibernate-for-beginners-master.zip
+drwxr-xr-x 1 tonie 197121       0 Dec 14 20:53 tagdemo/
+drwxr-xr-x 1 tonie 197121       0 Dec 18 01:02 web-student-tracker/
